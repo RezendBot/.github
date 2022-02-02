@@ -1,4 +1,4 @@
-## Hi there 👋,
+![Banner](https://raw.githubusercontent.com/RezendBot/.github/main/blackbanner.png)
 ##### Rezend is a group of people making discord bots and games
 _everyone in the group doesnt always contribute to every repo here btw_
 
