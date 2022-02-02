@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋,
 ## Rezend is a group of people making discord bots and games
 _everyone in the group doesnt always contribute to every repo here btw_
 _________________________________________________
