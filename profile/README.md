@@ -12,7 +12,7 @@ _everyone in the group doesnt always contribute to every repo here btw_
 JAVASCRIPT-0.1%``
 ## Our Socials-
 ##### Discord- https://dsc.gg/rezend-bot
-##### Website- (Comin' soon)
+##### Website- https://rezend.xpixeldevx.repl.co
 
 ## © Rezend Inc
 _All repositories here belong to rezend inc and cannot be used without the permisson of the owners._
