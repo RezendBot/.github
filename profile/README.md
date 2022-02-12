@@ -5,7 +5,7 @@ _everyone in the group doesnt always contribute to every repo here btw_
 ## Our Team-
 ##### 🔹 PixelKing (Owner)
 ##### 🔹 Dice Flip (Co-Owner)
-##### 🔹 Plus Flippy / Niko-Shot (Programmer) 
+##### 🔹 Plus Flippy / Uwu (Programmer) 
 
 ## Our Languages-
 ``PYTHON-99% (as of now the only language)
