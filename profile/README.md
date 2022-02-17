@@ -1,5 +1,6 @@
-![Banner](https://raw.githubusercontent.com/RezendBot/.github/main/blackbanner.png)
-##### Rezend is a group of people making discord bots and games
+<center> <img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Rezend&fontSize=65&fontAlignY=35&animation=twinkling&fontColor=gradient&desc=Discord Bot Community&descSize=200)"></img> </center>
+
+<h2><center>Rezend is a group of people making discord bots and games<center></h2>
 _everyone in the group doesnt always contribute to every repo here btw_
 
 ## Our Team-
