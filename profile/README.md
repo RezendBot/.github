@@ -9,8 +9,7 @@ _everyone in the group doesnt always contribute to every repo here btw_
 ##### 🔹 Plus Flippy / Uwu (Programmer) 
 
 ## Our Languages-
-``JAVASCRIPT- 99% (Main Language)
-PYTHON-1%``
+`Python:70% , C#-20% Other-10%`
 ## Our Socials-
 ##### Discord- https://dsc.gg/rezend-bot
 ##### Website- https://rezend.xpixeldevx.repl.co
